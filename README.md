@@ -29,3 +29,5 @@ Abra o arquivo `index.html` em um navegador para visualizar a tela.
 2. Abra `index.html` diretamente no navegador.
 
 As fontes e os ícones são carregados de serviços externos, então é necessária uma conexão com a internet para exibi-los.
+
+![alt text](image.png)
